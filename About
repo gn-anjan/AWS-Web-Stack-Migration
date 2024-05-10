@@ -1,2 +1,17 @@
 This project involves deploying a web application stack on-premises using Oracle VM VirtualBox. The first phase includes migrating the on-premises web application to AWS Cloud, initially deploying to EC2 instances and then restructuring with SaaS and PaaS. 
 The next step is to deploy the same service to Kubernetes containers. Finally, a CI/CD pipeline will be built to automate the build, test, and deployment processes.
+
+Tools
+JDK 11
+Maven 3
+MySQL 8
+
+Technologies
+Maven
+JSP
+Tomcat
+MySQL
+Memcached
+Rabbitmq
+ElasticSearch
+
